@@ -1,2 +1,1 @@
 # ShareFile
-# Author: AUG
